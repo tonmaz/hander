@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ConditionalExpressionWithIdenticalBranchesJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ES6ShorthandObjectProperty" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="INFORMATION" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="INFORMATION" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JSPrimitiveTypeWrapperUsage" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JSRemoveUnnecessaryParentheses" enabled="false" level="TYPO" enabled_by_default="false">
+      <scope name="All Changed Files" level="INFORMATION" enabled="false" />
+    </inspection_tool>
+    <inspection_tool class="JSUnnecessarySemicolon" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="TypeScriptExplicitMemberType" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="INFORMATION" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryContinueJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryLabelJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryLabelOnBreakStatementJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryLabelOnContinueStatementJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnnecessaryReturnJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnterminatedStatementJS" enabled="true" level="TYPO" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true">
+        <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+      </scope>
+      <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
